@@ -1,0 +1,72 @@
+body{
+margin: 0;
+background-color: #E52B50;
+text-align: center;
+font-family: 'Merriweather', serif;
+
+  }
+  h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color: #0000A0;
+  }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size:  2.5rem;
+    color: #0000A0;
+    font-weight: normal;
+
+  }
+  #h22{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+  }
+  #h222{
+    font-family: 'Sacramento', cursive;
+    font-size: 2.5rem;
+  }
+  h3{
+    font-family: 'Montserrat', sans-serif;
+  }
+  .top-container{
+  padding-top: 100px;
+    position:relative;
+
+  }
+
+.Leaf2{
+display: inline-block;
+}
+.Leaf3{
+display: inline-block;
+}
+.introduction{
+
+display: inline-block;
+width:30%
+}
+.us{
+  border-radius:50%;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+}
+.think{
+  width:25%;
+  float:left;
+  margin-right: 50px;
+}
+.deal{
+  width:25%;
+  float:right;
+  margin-left: 50px;
+}
+.btn{
+  padding-left: 50px;
+  padding-right:50px;
+}
